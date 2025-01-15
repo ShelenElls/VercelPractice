@@ -1,0 +1,1 @@
+// default .js page for fallback if next.js cannot recover the active slot on page load
